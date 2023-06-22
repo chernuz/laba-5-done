@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laba5</string>
+    <string name="hello" translatable="false">Информация о курьере</string>
+    <string-array name="package_types">
+        <item>Д</item>
+        <item>М</item>
+        <item>Б</item>
+    </string-array>
+</resources>
